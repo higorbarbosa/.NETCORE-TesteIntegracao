@@ -1,0 +1,1 @@
+# .NETCORE-TesteIntegracao
